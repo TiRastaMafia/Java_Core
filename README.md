@@ -1,4 +1,4 @@
-# Сomputer-networks
+# Java_Core
 
             Урок 1. Компиляция и интерпретация кода
            
@@ -31,7 +31,7 @@
        3 countEvens([1, 3, 5]) → 0 
     2* Сделать компараторы для Сотрудников на основе ЗП и Возраста
      
-  Решение тут _[HW2](https://github.com/TiRastaMafia/Java_Core/tree/main/HW3)_
+  Решение тут _[HW3](https://github.com/TiRastaMafia/Java_Core/tree/main/HW3)_
 
            Урок 4. Обработка исключений
 
@@ -46,7 +46,7 @@
         назначилась скидка более 15%, выбросить исключение TooMuchSaleException(msg), сообщение с ошибкой 
         вывести в консоль, цену товара не менять.
      
-  Решение тут _[HW2](https://github.com/TiRastaMafia/Java_Core/tree/main/HW4)_  
+  Решение тут _[HW4](https://github.com/TiRastaMafia/Java_Core/tree/main/HW4)_  
 
            Урок 5. Тонкости работы
 
@@ -59,7 +59,7 @@
     3* В продолжение 2 дописать "разворачивание" поля игры крестики-нолики из сохраненного в файле состояния 
        (распарсить файл, в зависимости от значений (0-3) нарисовать поле со значками 'х' 'о' '.')
      
-  Решение тут _[HW2](https://github.com/TiRastaMafia/Java_Core/tree/main/HW5)_  
+  Решение тут _[HW5](https://github.com/TiRastaMafia/Java_Core/tree/main/HW5)_  
   
   
 
